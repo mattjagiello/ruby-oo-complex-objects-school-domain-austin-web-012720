@@ -1,3 +1,3 @@
-def School
-
+class School
+  
 end
